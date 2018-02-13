@@ -34,7 +34,7 @@ particleTextOptions: {
 ### Props
 
 | Name | type | Value |
-|--------|------|
+|--------|------|------|
 | `text` | Arry | The texts you want to show |
 | `fontSize` | Number | The font-size of your texts |
 | `particleRadius` | Number | The max radius of the partcile |
