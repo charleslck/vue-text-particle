@@ -41,7 +41,7 @@ particleTextOptions: {
 | `italic` | Boolean | If your texts are italic |
 | `duration` | Number | The time before the texts change |
 | `canvasBackground` | Hex_Number | The background-color of the canvas |
-| `canvasSize` | Arry [width,height] | The width&height of the canvas |
+| `canvasSize` | Arry | The width&height of the canvas |
 | `textTop` | Number | The distance of the canvas to the top |
 | `textLeft` | Number | The distance of the canvas to the left |
 | `theme` | String | 'default','white','black','red' and more coming soon... |
